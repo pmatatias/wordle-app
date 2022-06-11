@@ -1,16 +1,7 @@
-# wordle_app
+# Wordle App
 
-A new Flutter project.
+Learn flutter.
 
-## Getting Started
+worlde games clone => [nytimes](https://www.nytimes.com/games/wordle/index.html)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+following an amazing [tutorial vide from Marcus Ng](https://www.youtube.com/watch?v=_W0RN_Cqhpg)
